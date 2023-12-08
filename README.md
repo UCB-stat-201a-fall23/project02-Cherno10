@@ -1,5 +1,5 @@
 ## Stat 201A - Project No2
-
+Cherno Barry
 ...
 
 ## Deliverables
